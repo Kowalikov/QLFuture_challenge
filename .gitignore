@@ -2,3 +2,4 @@ data/*
 assets/*
 
 !.gitkeep
+!data/tile_labels.csv
